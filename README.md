@@ -1,8 +1,8 @@
 # webpack-vue
     webpack+vue基础（课程学习）：https://www.imooc.com/learn/935
     我这里用的版本是webpack4.0
-    下面是课程目录：
-###视频 2 vue+webpack项目工程配置
+## 下面是课程目录：
+### 视频 2 vue+webpack项目工程配置
     2-1 vue-loader+webpack项目配置
     2-2 webpack配置项目加载各种静态资源及css预处理器
     2-3 webpack-dev-server的配置和使用
